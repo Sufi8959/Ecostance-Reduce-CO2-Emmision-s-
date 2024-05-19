@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "EcoFlutterUI-fix-bug-type-cast-24jul",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "EcoFlutterUI-fix-bug-type-cast-24jul (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "EcoFlutterUI-fix-bug-type-cast-24jul (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flag_flutter",
+            "cwd": "flag_flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flag_flutter (profile mode)",
+            "cwd": "flag_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flag_flutter (release mode)",
+            "cwd": "flag_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_rating_bar_1",
+            "cwd": "flutter_rating_bar_1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_rating_bar_1 (profile mode)",
+            "cwd": "flutter_rating_bar_1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_rating_bar_1 (release mode)",
+            "cwd": "flutter_rating_bar_1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "scroll_indicator",
+            "cwd": "scroll_indicator",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "scroll_indicator (profile mode)",
+            "cwd": "scroll_indicator",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "scroll_indicator (release mode)",
+            "cwd": "scroll_indicator",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "sleek_circular_slider",
+            "cwd": "sleek_circular_slider",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "sleek_circular_slider (profile mode)",
+            "cwd": "sleek_circular_slider",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "sleek_circular_slider (release mode)",
+            "cwd": "sleek_circular_slider",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

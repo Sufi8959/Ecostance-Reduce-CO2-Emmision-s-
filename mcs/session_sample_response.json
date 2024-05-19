@@ -1,0 +1,63 @@
+{
+  "session": {
+    "id": "cs_test_b1kbUACeTxhUJ9grfpWnqWE2B6JjLcbKuAXorOB8e5LLIpb1vP5Dii4OPQ",
+    "object": "checkout.session",
+    "after_expiration": null,
+    "allow_promotion_codes": null,
+    "amount_subtotal": 7500,
+    "amount_total": 7500,
+    "automatic_tax": {
+      "enabled": false,
+      "status": null
+    },
+    "billing_address_collection": null,
+    "cancel_url": "https://cancelebc.ebc/checkout/cancel?cancel=true?session_id={CHECKOUT_SESSION_ID}",
+    "client_reference_id": null,
+    "consent": null,
+    "consent_collection": null,
+    "currency": "usd",
+    "customer": null,
+    "customer_creation": "always",
+    "customer_details": {
+      "address": null,
+      "email": "ameya.pai1990@gmail.com",
+      "name": null,
+      "phone": null,
+      "tax_exempt": "none",
+      "tax_ids": null
+    },
+    "customer_email": "ameya.pai1990@gmail.com",
+    "expires_at": 1663926405,
+    "livemode": false,
+    "locale": null,
+    "metadata": {},
+    "mode": "payment",
+    "payment_intent": "pi_3LklzVDgUdPX7tC04SmMEhpy",
+    "payment_link": null,
+    "payment_method_collection": "always",
+    "payment_method_options": {},
+    "payment_method_types": [
+      "card"
+    ],
+    "payment_status": "unpaid",
+    "phone_number_collection": {
+      "enabled": false
+    },
+    "recovered_from": null,
+    "setup_intent": null,
+    "shipping": null,
+    "shipping_address_collection": null,
+    "shipping_options": [],
+    "shipping_rate": null,
+    "status": "open",
+    "submit_type": null,
+    "subscription": null,
+    "success_url": "https://successebc.ebc/checkout/success?success=true?session_id={CHECKOUT_SESSION_ID}",
+    "total_details": {
+      "amount_discount": 0,
+      "amount_shipping": 0,
+      "amount_tax": 0
+    },
+    "url": "https://checkout.stripe.com/c/pay/cs_test_b1kbUACeTxhUJ9grfpWnqWE2B6JjLcbKuAXorOB8e5LLIpb1vP5Dii4OPQ#fidkdWxOYHwnPyd1blpxYHZxWjA0TlJHaDZBYlBhVV0ycUY1VzJRc0o9MH00YWBHMkZkb3VqSmpMV21Ra11kX2NmSDw1V1xHfUZQQkc8ckZEMTB%2FTXVtamtGbFBdU2c9TGZnRj1CVF9HS19mNTVhPH9DRkFdSycpJ2N3amhWYHdzYHcnP3F3cGApJ2lkfGpwcVF8dWAnPydocGlxbFpscWBoJyknYGtkZ2lgVWlkZmBtamlhYHd2Jz9xd3BgeCUl"
+  }
+}

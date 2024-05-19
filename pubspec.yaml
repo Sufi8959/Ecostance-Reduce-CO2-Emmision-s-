@@ -1,0 +1,163 @@
+name: net_carbons
+description: A new Flutter project.
+
+#publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+3
+
+environment:
+ sdk: '>=3.2.6 <=4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  uni_links: ^0.5.0
+  cupertino_icons: ^1.0.2
+  dartz: ^0.10.1
+  json_annotation: ^4.5.0
+  freezed_annotation: ^2.0.3
+  flutter_bloc: ^8.0.1
+  shared_preferences: ^2.0.15
+  dio: ^5.4.2+1
+  get_it: ^7.2.0
+  flutter_breadcrumb: ^1.0.1
+  flutter_otp_text_field: ^1.0.1
+  animated_splash_screen: ^1.3.0
+  dots_indicator: ^3.0.0
+  flutter_svg: ^1.1.1+1
+  country_codes: ^2.2.0
+  google_fonts: ^4.0.0
+  connectivity_plus: ^2.3.5
+  auto_size_text: ^3.0.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  syncfusion_flutter_gauges: ^20.2.40
+  flutter_arc_text: ^0.6.0
+  flutter_circular_text: ^0.3.1
+  flutter_svg_provider: ^1.0.3
+  url_launcher: ^6.1.5
+  basic_utils: ^5.4.2
+  dropdown_search: ^5.0.2
+  intl: ^0.17.0
+  google_maps_flutter:
+  flutter_config: ^2.0.0
+  flutter_dotenv: ^5.0.2
+  flutter_downloader: ^1.8.4
+  path_provider: ^2.0.11
+  permission_handler: ^11.3.1
+  device_info_plus: ^10.0.1
+  webview_flutter: ^3.0.4
+  flutter_screenutil: ^5.5.4
+  back_button_interceptor: ^7.0.3
+  intl_phone_field: ^3.1.0
+  dio_cookie_manager: ^3.1.1
+  cookie_jar: ^4.0.8
+  android_path_provider: ^0.3.0
+  internet_connection_checker: ^1.0.0+1
+  flutter_native_splash: ^2.2.11
+  otp_text_field: ^1.1.3
+  firebase_core: ^2.27.0
+  firebase_messaging: ^14.0.4
+  firebase_crashlytics: ^3.4.18
+  flutter_local_notifications: ^17.0.0
+  flutter_timezone: ^1.0.4
+  share_plus: ^8.0.2
+  social_share_plugin: ^0.4.1+2
+  qr_flutter: ^4.0.0
+  modal_progress_hud_nsn: ^0.5.1
+  colorful_slider: ^0.0.3
+  rxdart: ^0.27.6
+  animations: ^2.0.0
+  shimmer: ^3.0.0
+  fl_chart:
+  image_cropper: ^4.0.1
+  page_transition: ^2.0.9
+  change_app_package_name: ^1.1.0
+  cached_network_image: 
+  camera:
+  page_view_indicators:
+    git:
+      url: https://github.com/ebc-organization/page_view_indicators
+      ref: master
+  image_picker: ^1.0.7
+  dotted_border: ^2.0.0+3
+  http_parser: ^4.0.2
+  flag:
+    path: ./flag_flutter
+  timezone: ^0.9.0
+  flutter_rating_bar_1:
+    path: ./flutter_rating_bar_1
+  scroll_indicator:
+    path: ./scroll_indicator
+  sleek_circular_slider:
+    path: ./sleek_circular_slider
+  syncfusion_flutter_pdfviewer:
+    git:
+      url: https://github.com/energy-blockchain-org/syncfusion_flutter_pdfviewer_netcarbons
+      ref: main
+  package_info_plus: ^6.0.0
+  toggle_switch: ^2.1.0
+  timeline_tile:
+  text_scroll: ^0.2.0
+
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+
+  mocktail: ^1.0.3
+  flutter_lints: ^3.0.2
+  build_runner: ^2.1.11
+  freezed: ^2.0.3+1
+  json_serializable: ^6.2.0
+  hive_generator:
+  dartz_test: ^0.1.0
+  copy_with_extension_gen: ^5.0.4
+  bloc_test: ^9.1.0
+  flutter_launcher_icons: 
+
+flutter_launcher_icons:
+  image_path: "assets/images/qr_logo.png"
+  android: true
+  ios: true
+  
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/gifs/
+    - assets/svgs/
+    - assets/flags_svg/
+    - assets/json/
+    - .env
+
+  fonts:
+    - family: Work Sans
+      fonts:
+        - asset: fonts/WorkSans-Bold.ttf
+          weight: 700
+        - asset: fonts/WorkSans-SemiBold.ttf
+          weight: 600
+        - asset: fonts/WorkSans-Medium.ttf
+          weight: 500
+        - asset: fonts/WorkSans-Regular.ttf
+          weight: 400
+        - asset: fonts/WorkSans-Light.ttf
+          weight: 300
+        - asset: fonts/WorkSans-ExtraLight.ttf
+          weight: 200
+        - asset: fonts/WorkSans-Thin.ttf
+          weight: 100
+

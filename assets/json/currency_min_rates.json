@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "6358efad5c23146e33eb13ee"
+  },
+  "currency": "USD",
+  "currencySymbol": "$",
+  "minimumChargeAmount": 0.5,
+  "status": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666772909198"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666772909198"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6358fe0a392ac55d888a41c0"
+  },
+  "currency": "CAD",
+  "currencySymbol": "$",
+  "minimumChargeAmount": 0.5,
+  "status": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666776586205"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666776586205"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6358fe4823fc1e9b411e8938"
+  },
+  "currency": "GBP",
+  "currencySymbol": "£",
+  "minimumChargeAmount": 0.3,
+  "status": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666776648511"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666776648511"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6358fe6923fc1e9b411e893a"
+  },
+  "currency": "EUR",
+  "currencySymbol": "€",
+  "minimumChargeAmount": 0.5,
+  "status": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666776681827"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666776681827"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6358fea9d8cfeba094ac5e97"
+  },
+  "currency": "INR",
+  "currencySymbol": "₹",
+  "minimumChargeAmount": 0.5,
+  "status": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666776745677"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666776745677"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6358fec3d8cfeba094ac5e99"
+  },
+  "currency": "JPY",
+  "currencySymbol": "¥",
+  "minimumChargeAmount": 50,
+  "status": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666776771094"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666776771094"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6358fee5d8cfeba094ac5e9b"
+  },
+  "currency": "CNY",
+  "currencySymbol": "$",
+  "minimumChargeAmount": 0.5,
+  "status": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666776805371"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666776805371"
+    }
+  },
+  "__v": 0
+}]

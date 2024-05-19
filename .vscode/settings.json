@@ -1,0 +1,8 @@
+{
+    "yaml.schemas": {
+        "file:///Users/ichiranjeeb/.vscode/extensions/atlassian.atlascode-3.0.5/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+        "https://json.schemastore.org/pubspec.json": "file:///Users/ichiranjeeb/ecostance/EcoFlutterUI-fix-bug-type-cast-24jul/pubspec.yaml"
+    },
+    "dart.flutterSdkPath": "C:\\src\\flutter",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

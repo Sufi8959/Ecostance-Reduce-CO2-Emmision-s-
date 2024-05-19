@@ -1,0 +1,36 @@
+{
+    "exchange": "",1
+    "scale": "Large",1
+    "id": "VCS 68",1
+    "link": "https://registry.verra.org/app/projectDetail/VCS/68",1
+    "participants": "Tamil Nadu, India (Host);&#10;Lanco Tanjore Power Company Ltd. (formerly Aban Power Company Ltd.)&#10;EDF Trading Limited&#10;",
+    "size": "",
+    "start": "",
+    "completion": "",
+    "validator": "Tuev Nord Cert GmbH (Tuev Nord)",
+    "validatorLink": "https://www.tuev-nord.de/en/company/certification/",
+    "monitor": "EKI Energy Services Ltd. (EnKing) contracted Earthhood Services Private Ltd (ESPL) to conduct verification",
+    "monitorNotes": "During the Current Monitoring Period from 16-December-2010 to 10-August-2015 (First and last date included) the project activity has supplied 3,368,443.52 MWh of electricity, and thus contributing to the GHG reductions 1,354,428 tCO2e.&#10;The project activity has not participated in any other GHG programs except CDM. The project &#10;activity is registered as CDM project on 26-May-2007 under the UNFCCC Reference Number 999. There is assurance of no double counting between CERs and VCUs.",
+    "monitorLink": "https://enkingint.org/",
+    "auditor": [
+        {
+            "name": "",
+            "notes": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        }
+    ],
+    "information": "",
+    "owners": "",
+    "developers": "",
+    "funders": "",
+    "documents": [
+        {
+            "name": "Issuance Deed of Representation /Issuance Deed of Representation.pdf",
+            "link": ""
+        }
+    ]
+}

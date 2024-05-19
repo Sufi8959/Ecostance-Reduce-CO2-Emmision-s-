@@ -1,0 +1,179 @@
+{
+    "docLinks": [],
+    "_id": "630757bd2939e15a4e2305cd",
+    "tag": [
+        ""
+    ],
+    "id": 1004,
+    "formalName": "Kariba REDD+",
+    "stock": 250,
+    "category": "Carbon*",
+    "state": "",
+    "country": "",
+    "sku": "",
+    "thumbImage": [
+        "https://res.cloudinary.com/cloudhungry/image/upload/c_thumb,w_200,g_face/v1653386880/ebc/Card_3_j0xjjq.png",
+        "https://yourimageshare.com/ib/fAt4aZ3anQ.png",
+        "https://yourimageshare.com/ib/RHdoqEhvuo.png",
+        "https://yourimageshare.com/ib/Ov839mhNGL.png",
+        "https://yourimageshare.com/ib/rwdnwEZR5r.png",
+        "https://yourimageshare.com/ib/EcTyyVpclj.png",
+        "https://yourimageshare.com/ib/ZyQgASMIBv.png",
+        "https://yourimageshare.com/ib/Eh1hkn6vnq.png"
+    ],
+    "image": [
+        "https://res.cloudinary.com/cloudhungry/image/upload/v1653386880/ebc/Card_3_j0xjjq.png",
+        "https://yourimageshare.com/ib/fAt4aZ3anQ.png",
+        "https://yourimageshare.com/ib/RHdoqEhvuo.png",
+        "https://yourimageshare.com/ib/Ov839mhNGL.png",
+        "https://yourimageshare.com/ib/rwdnwEZR5r.png",
+        "https://yourimageshare.com/ib/EcTyyVpclj.png",
+        "https://yourimageshare.com/ib/ZyQgASMIBv.png",
+        "https://yourimageshare.com/ib/Eh1hkn6vnq.png"
+    ],
+    "video": [
+        ""
+    ],
+    "shortDescription": "The Kariba REDD+ Project will generate approximately 196,500,000 carbon credits from reduced emissions associated with deforestation over 30 years. The reduction in deforestation will be achieved through a series of activities that are designed to significantly improve the livelihoods of locals, such as improved agriculture, beekeeping, fuelwood plantations and fire management. A significant share of the project’s carbon income will be invested in general activities that promote and guarantee project sustainability that benefits the whole communities, specifically the poorest members of society, and to improve health and education in the project area with its long-term activities.",
+    "longDescription": "",
+    "details": {
+        "project": {
+            "exchange": "",
+            "scale": "Large",
+            "id": "VCS 902",
+            "link": "https://registry.verra.org/app/projectDetail/VCS/902",
+            "participants": "Carbon Green Investments (Guernsey)",
+            "size": "747,801 Hectares",
+            "start": "2011-07-01T00:00:00.000Z",
+            "completion": "",
+            "validator": "Aster Global Environment Solutions Inc.",
+            "validatorLink": "Auditing Services - Aster Global Environmental Solutions",
+            "monitor": "",
+            "monitorNotes": "",
+            "monitorLink": "",
+            "auditor": [
+                {
+                    "name": "SCS Global Services",
+                    "notes": "Site Visit: 15-Nov-2016 to 23-Nov-2016",
+                    "link": "https://www.scsglobalservices.com/"
+                },
+                {
+                    "name": "",
+                    "link": ""
+                }
+            ],
+            "information": "",
+            "owners": "",
+            "developers": "",
+            "funders": ""
+        },
+        "sdgs": [
+            {
+                "sdg": "62504cac794eeec9b9537eba",
+                "details": "",
+                "fulFilled": true
+            },
+            {
+                "sdg": "62504cac794eeec9b9537ebb",
+                "details": "",
+                "fulFilled": true
+            },
+            {
+                "sdg": "62504cac794eeec9b9537ebd",
+                "details": "",
+                "fulFilled": true
+            }
+        ],
+        "standards": [
+            "62e77586b67e111b5f6856d9"
+        ],
+        "stdMethod": {
+            "type": "VM0009",
+            "version": "",
+            "link": ""
+        },
+        "estimatedAnnualEmissionReduction": "6,550,464 Tons",
+        "creditsIssued": "6,550,464",
+        "operationRegistration": "2020-04-06T00:00:00.000Z",
+        "termStart": "2011-07-01T00:00:00.000Z",
+        "termEnd": "2041-06-20T00:00:00.000Z",
+        "location": [
+            {
+                "lat": "",
+                "long": "",
+                "description": ""
+            },
+            {
+                "lat": "",
+                "lang": "",
+                "description": ""
+            }
+        ],
+        "landArea": "",
+        "coBenifitsDescription": "",
+        "documents": ""
+    },
+    "status": "Active",
+    "subCategory": "Carbon Offset (VCU)",
+    "productType": "Agriculture Forestry and Other Land Use",
+    "productSubType": "ARR; REDD (Reduced Emissions from Deforestation and Degradation)",
+    "priceList": [
+        {
+            "price": 15,
+            "currency": "USD",
+            "oldPrice": 17,
+            "currencySymbol": "$"
+        },
+        {
+            "currency": "CAD",
+            "currencySymbol": "$",
+            "oldPrice": 22.38,
+            "price": 19.75
+        },
+        {
+            "currency": "GBP",
+            "currencySymbol": "£",
+            "oldPrice": 14.71,
+            "price": 12.98
+        },
+        {
+            "currency": "EUR",
+            "currencySymbol": "€",
+            "oldPrice": 16.99,
+            "price": 14.99
+        },
+        {
+            "currency": "INR",
+            "currencySymbol": "₹",
+            "oldPrice": 1350.51,
+            "price": 1191.63
+        },
+        {
+            "currency": "JPY",
+            "currencySymbol": "¥",
+            "oldPrice": 2434.07,
+            "price": 2147.71
+        },
+        {
+            "currency": "CNY",
+            "currencySymbol": "¥",
+            "oldPrice": 118.31,
+            "price": 104.4
+        },
+        {
+            "currency": "JPY",
+            "currencySymbol": "¥",
+            "oldPrice": 2434.07,
+            "price": 2147.71
+        }
+    ],
+    "name": "Kariba REDD+",
+    "slug": "kariba-red",
+    "discount": 0,
+    "categoryList": [
+        {
+            "category": "Carbon*",
+            "subCategory": "Carbon Offset (VCU)"
+        }
+    ]
+}

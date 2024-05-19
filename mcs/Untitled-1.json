@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "total": 1,
+        "totalPages": 1,
+        "currentPage": 1,
+        "nextPage": null
+    },
+    "orders": [
+        {
+            "_id": "63285525eea8511292a9bb2b",
+            "orderNumber": "1000000107829",
+            "products": [
+                {
+                    "product": "630757bd2939e15a4e2305cd",
+                    "price": 15,
+                    "quantity": 5,
+                    "certificateNumber": "100000014840",
+                    "_id": "63285525eea8511292a9bb2c",
+                    "updatedAt": "2022-09-19T11:40:27.897Z",
+                    "createdAt": "2022-09-19T11:40:27.897Z"
+                },
+                {
+                    "product": "630757bd2939e15a4e2305cd",
+                    "price": 15,
+                    "quantity": 5,
+                    "certificateNumber": "100000014922",
+                    "_id": "63285525eea8511292a9bb2d",
+                    "updatedAt": "2022-09-19T11:40:27.897Z",
+                    "createdAt": "2022-09-19T11:40:27.897Z"
+                }
+            ],
+            "customer": {
+                "_id": "62bb0c803f1c6d700f53d33f",
+                "user": "62bb0c803f1c6d700f53d33d",
+                "address": [],
+                "status": "OPTEDIN",
+                "createdAt": "2022-06-28T14:13:20.008Z",
+                "updatedAt": "2022-09-19T11:40:21.255Z",
+                "__v": 0,
+                "ghgReduced": 10,
+                "projectsSupported": [
+                    "VCS 902"
+                ],
+                "projectsSupportedCount": 1,
+                "treesPlanted": 120
+            },
+            "orderTotal": 285,
+            "calculatedCouponDiscount": 0,
+            "subTotal": 0,
+            "billingAddress": {
+                "firstName": "Soundararajan",
+                "lastName": "Murugesan",
+                "contactNo": "7845360097",
+                "addressLine1": "1/129 Kasappu Kadu",
+                "addressLine2": "Periyagoundapuram - Post, Karipatti - Via",
+                "city": "Salem",
+                "state": "Tamil Nadu",
+                "country": "India",
+                "pincode": "636106",
+                "stateCode": "TN",
+                "countryCode": "IN"
+            },
+            "carbonOffsetEarned": 0,
+            "paymentMode": "duplicate payment",
+            "paymentMethod": "STRIPE",
+            "paymentLogs": [],
+            "paymentStatus": "success",
+            "subscriptionCancelledAt": 0,
+            "certificates": [
+                {
+                    "_id": "6328552b255086a6fe232576",
+                    "originNumber": "100000014840",
+                    "customer": "62bb0c803f1c6d700f53d33f",
+                    "userCertificateSlug": "63285525eea8511292a9bb32",
+                    "order": "63285525eea8511292a9bb2b",
+                    "product": "630757bd2939e15a4e2305cd",
+                    "certificateURL": "https://api.ecostance.com/certificate/100000014840.pdf",
+                    "status": 2,
+                    "createdAt": "2022-09-19T11:40:27.189Z",
+                    "updatedAt": "2022-09-19T11:40:32.068Z",
+                    "__v": 0,
+                    "transactionId": "a76770c6-4639-44db-a0cd-659b223325de"
+                },
+                {
+                    "_id": "6328552b255086a6fe232581",
+                    "originNumber": "100000014922",
+                    "customer": "62bb0c803f1c6d700f53d33f",
+                    "userCertificateSlug": "63285525eea8511292a9bb32",
+                    "order": "63285525eea8511292a9bb2b",
+                    "product": "630757ca2939e15a4e2305ce",
+                    "certificateURL": "https://api.ecostance.com/certificate/100000014922.pdf",
+                    "status": 2,
+                    "createdAt": "2022-09-19T11:40:27.895Z",
+                    "updatedAt": "2022-09-19T11:40:34.615Z",
+                    "__v": 0,
+                    "transactionId": "4345af44-905b-4ed6-a224-d5c849a86831"
+                }
+            ],
+            "status": 3,
+            "emailSentStatus": 1,
+            "metricsCalculatedStatus": 1,
+            "createdAt": "2022-09-19T11:40:21.088Z",
+            "updatedAt": "2022-09-19T11:40:27.897Z",
+            "__v": 0,
+            "invoice": {
+                "_id": "63285525eea8511292a9bb34",
+                "status": 3,
+                "createdAt": "2022-09-19T11:40:21.108Z",
+                "updatedAt": "2022-09-19T11:40:26.524Z",
+                "__v": 0,
+                "filePath": "https://api.ecostance.com/order/ORDER-No-1000000107829.pdf"
+            }
+        }
+    ]
+}
